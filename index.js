@@ -27,12 +27,12 @@ let data = [
     {
         "id": 5,
         "description": "Breads crackers pasta and cereal",
-        "name": "Grains/Cereals"
+        "name": "Grains"
     },
     {
         "id": 6,
         "description": "Prepared meats",
-        "name": "Meat/Poultry"
+        "name": "Meat"
     },
     {
         "id": 7,
